@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hiiii hellooo
+=======
+hellooooo
+>>>>>>> refs/remotes/origin/master
